@@ -22,6 +22,6 @@ Run the below commands in terminal
 2. npm install
 3. npm run dev
 
-###UI
+# UI
 
 <img width="867" alt="Screenshot 2025-06-20 at 3 51 37 PM" src="https://github.com/user-attachments/assets/329974d7-dec1-4d07-996d-e6003eafab9b" />
